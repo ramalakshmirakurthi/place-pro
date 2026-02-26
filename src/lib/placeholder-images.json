@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "video-cs-dsa",
+      "description": "Data Structures and Algorithms",
+      "imageUrl": "https://images.unsplash.com/photo-1675495666589-94cdafbcfcc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9ncmFtbWluZyUyMGNvZGV8ZW58MHx8fHwxNzcyMDM2NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "programming code"
+    },
+    {
+      "id": "video-mech-thermo",
+      "description": "Thermodynamics Fundamentals",
+      "imageUrl": "https://images.unsplash.com/photo-1601368704635-fbcfc6349b93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlbmdpbmUlMjB0aGVybWFsfGVufDB8fHx8MTc3MjAzNjcxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "engine thermal"
+    },
+    {
+      "id": "video-ece-logic",
+      "description": "Digital Electronics",
+      "imageUrl": "https://images.unsplash.com/photo-1562408590-e32931084e23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXJjdWl0JTIwYm9hcmR8ZW58MHx8fHwxNzcyMDIwMTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "circuit board"
+    },
+    {
+      "id": "video-ee-power",
+      "description": "Power Systems Engineering",
+      "imageUrl": "https://images.unsplash.com/photo-1744868244962-7878b9ab0ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlbGVjdHJpY2l0eSUyMHRvd2VyfGVufDB8fHx8MTc3MjAzNjcxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electricity tower"
+    },
+    {
+      "id": "video-civil-structural",
+      "description": "Structural Analysis",
+      "imageUrl": "https://images.unsplash.com/photo-1616408839057-fcbd93312ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxicmlkZ2UlMjBjb25zdHJ1Y3Rpb258ZW58MHx8fHwxNzcyMDIzMDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bridge construction"
+    },
+    {
+      "id": "video-cs-os",
+      "description": "Operating Systems",
+      "imageUrl": "https://images.unsplash.com/photo-1600267165477-6d4cc741b379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMHN5c3RlbXxlbnwwfHx8fDE3NzIwMzY3MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "computer system"
+    },
+    {
+      "id": "video-mech-fluid",
+      "description": "Fluid Mechanics",
+      "imageUrl": "https://images.unsplash.com/photo-1580777361964-27e9cdd2f838?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3YXRlciUyMGZsb3d8ZW58MHx8fHwxNzcyMDM2NzE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water flow"
+    },
+    {
+      "id": "video-ece-comm",
+      "description": "Analog Communication",
+      "imageUrl": "https://images.unsplash.com/photo-1617994452722-4145e196248b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyYWRpbyUyMHdhdmV8ZW58MHx8fHwxNzcyMDM2NzE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "radio wave"
+    }
+  ]
+}
